@@ -1,0 +1,24 @@
+Blanks:
+
+1.	A controlled loop uses a true/false condition to control the number of times that it repeats: condition
+2.	Which of the following is a count-controlled loop? For Loop
+3.	Each repetition of a loop is known as a(n): iteration
+4.	The while loop is a	type of loop: pretest
+5.	A(n) _	loop has no way of ending and repeats until the program is inter- Rupted: infinite
+6.	The -= operator is an example of a(n)	operator: augmented assignment
+7.	A(n) _	variable keeps a running total: Accumulator
+8.	A variable used to calculate the number of iterations of a loop is called a(n): counter
+9.	A variable that is used to mark the end of a sequence of values is known as a(n): sentinel
+10.	A(n)	loop is sometimes called an error handler: input validation
+11.	The input operation that appears just before a validation loop is known as the: priming read
+12.	_____ is a keyword that is used to get out from the iteration of a loop immediately: Break
+
+
+True False
+
+1.	A condition-controlled loop always repeats a specific number of times. True
+2.	The while loop is a pretest loop. True
+3.	In a while loop, the key word continue is used to stop the execution of the loop. False
+4.	It is not necessary to initialize accumulator variables. False
+5.	An iterable is an object that is similar to a list and is created by the range function. True
+6.	To calculate the total number of iterations of a nested loop, add the number of iterations of all the loops. False
